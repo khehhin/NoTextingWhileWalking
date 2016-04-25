@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-ac496b1dddc72172a0707a58437d3f7a4bb36cc0.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-2d59bbc017834d6080a915698eee170de804a5cd.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-8da29b61cc4721bf9d56f05fb22ab668da4312ef.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-a9e9c94992d7fb9b393c4fd793827d9710636621.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-6a2b70b7c1865d31f58f74d622943bbd2e20bed1.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-a284886f5b20ed7f8a7457892c1e963f7769b962.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-364e9492ed0af4efb9948a3854f86651179e36a0.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-f9c274e2f32bbc59e14df0fcfa12a39d7dfa38b1.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-3e7180cc501465304a2db82c844f938a6cb8fd33.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-5f2f8174304df2098cc5cecc84be2195339a7e61.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-30ad4eaba25ae2046e3926411da23f7cdb002f4c.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-1e84feaf26b13233f2797d3e350514ef83247654.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-0eca9d81005a6146867abea00cab6475c352397e.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-804d8bdbd701a29f4e1411f3405e08cd5da85856.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-448ad198f043e28d295ab611265541056e0a5f65.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-aafe479308bf57e929b71c3a51b706bf9798d14d.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-d3c10452b50d8de39d2c26b74441a47e945697f9.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-e931213151fdb7281f3b922fb8e4a0d30b356637.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-a748321b734421b34b36afa6c0e0866e86c0587c.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-0c44773ed5b55ec214f045546d38d2fec8437089.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-71ae8a95fe3bb7770ce9bc5559172fceca127df9.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-7ecc73c92bf23ce913523142be0a4a025c6976bb.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-e4eae2257e0de0f6b0e764ba9d6c98da019b7f30.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-75c28898e22f24c5d0d8781931d5d029d32e20c6.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-845dc32d5f7485fe3145c8581dd0ffcb61061a2f.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-1df8dbca707212175dd6a3edd4cccb14bc89bdf1.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-975ba9fa983155c084f03fd49391545eec566b0d.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-1566bb88d5bb05f7ea3152e35b2faf58d04669e3.jar" />
+    </item>
+    <item
+        jar="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/geraldlim/Desktop/NoTextingWhileWalking/app/build/intermediates/pre-dexed/debug/classes-f49a99f4b1105d065a90f86b2f4e052718fa84e5.jar" />
+    </item>
+
+</items>
